@@ -1,6 +1,8 @@
-<center>
-<a href="Images/head.gif"><img width="68%" height="auto" src="Images/head.gif" height="100px"/></a>
-</center> 
+<!-- <center>
+<a href="Images/head.gif"><img width="68%" height="auto" src="Images/head.gif" height="50px"/></a>
+</center>  -->
+  
+[![MasterHead](https://i.pinimg.com/originals/24/82/4a/24824a9093e08860d69cb3eeafcc6a9a.jpg)](https://www.youtube.com/channel/UCybAved9WEewyoJP2dZV1PA)
   
 <h1 align="center">Hey there, i am Rajat Napalchyal</h1>
 <h3 align="center">A passionate software developer currently studying at IIIT Lucknow</h3>
