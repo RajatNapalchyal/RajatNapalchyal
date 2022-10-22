@@ -1,5 +1,5 @@
-[![MasterHead](https://gray-wtoc-prod.cdn.arcpublishing.com/resizer/CDGcV4-qOXu0AYZ9HqTzmrhaZr8=/800x200/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/SZRS43TDQFAK5JCUUTXZJHV5MQ.gif)](https://rishavchanda.io)
-
+<a href="images/head.gif"><img width="100%" height="auto" src="images/head.gif" height="175px"/></a>
+  
 <h1 align="center">Hey there, i am Rajat Napalchyal</h1>
 <h3 align="center">A passionate software developer currently studying at IIIT Lucknow</h3>
 
