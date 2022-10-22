@@ -1,9 +1,11 @@
-<a href="Images/head.gif"><img width="100%" height="auto" src="Images/head.gif" height="175px"/></a>
+<center>
+<a href="Images/head.gif"><img width="68%" height="auto" src="Images/head.gif" height="100px"/></a>
+</center> 
   
 <h1 align="center">Hey there, i am Rajat Napalchyal</h1>
 <h3 align="center">A passionate software developer currently studying at IIIT Lucknow</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/05LK.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatnapalchyal&label=Profile%20views&color=0e75b6&style=flat" alt="rajatnapalchyal" /> </p>
 
