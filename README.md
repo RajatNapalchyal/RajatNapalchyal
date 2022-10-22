@@ -1,4 +1,4 @@
-<a href="images/head.gif"><img width="100%" height="auto" src="images/head.gif" height="175px"/></a>
+<a href="Images/head.gif"><img width="100%" height="auto" src="Images/head.gif" height="175px"/></a>
   
 <h1 align="center">Hey there, i am Rajat Napalchyal</h1>
 <h3 align="center">A passionate software developer currently studying at IIIT Lucknow</h3>
