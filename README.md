@@ -9,8 +9,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatnapalchyal&label=Profile%20views&color=0e75b6&style=flat" alt="rajatnapalchyal" /> </p>
-
 - 🌱 I’m currently learning **Android App Development**
 
 - 💻 I’m a **competitive programming enthusiast**
