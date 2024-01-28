@@ -5,13 +5,11 @@
 [![MasterHead](https://i.pinimg.com/originals/24/82/4a/24824a9093e08860d69cb3eeafcc6a9a.jpg)](https://www.youtube.com/channel/UCybAved9WEewyoJP2dZV1PA)
   
 <h1 align="center">Hey there, i am Rajat Napalchyal</h1>
-<h3 align="center">A passionate software developer currently studying at IIIT Lucknow</h3>
+<!-- <h3 align="center">A passionate software developer currently studying at IIIT Lucknow</h3> >                 <!--      commented out material         >       
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/e92a9472c0062f530e139d1d86abc620/tumblr_ou6ys7IwmU1w86w6ho1_1280.gif">
 
-- 🌱 I’m currently learning **back-end development**
-
-- 💻 I’m a **linux enthusiast** (i use arch btw)
+- 💻 **Linux enthusiast** (i use arch btw)
 
 - 🎧 This is my [youtube channel](https://www.youtube.com/channel/UCybAved9WEewyoJP2dZV1PA)
 
