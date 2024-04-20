@@ -10,7 +10,7 @@
 
 - 💻 **Linux enthusiast** (i use arch btw)
 
-- 🎧 This is my [youtube channel](https://www.youtube.com/channel/UCybAved9WEewyoJP2dZV1PA)
+- 🎧 Check out my [youtube](https://www.youtube.com/channel/UCybAved9WEewyoJP2dZV1PA)
 
 <p align="left">
 </p>
